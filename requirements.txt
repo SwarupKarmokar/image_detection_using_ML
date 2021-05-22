@@ -1,5 +1,5 @@
 numpy 
 scikit-image
-PIL
+pillow
 streamlit
 pickle
